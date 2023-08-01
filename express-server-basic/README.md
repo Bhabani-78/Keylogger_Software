@@ -1,6 +1,2 @@
-
-1. To run this code use `git clone https://github.com/bsk78/Keylogger-software.git`
-2. Run the command `cd/express-server-keylogger-basic`
-3. Run the command `python3 setup.py`.
-4. Run the command `node server.js` 
-
+It is a server based code where the attacker can create the connection with the victim's machine and receive the data from the receiver side.
+This program is build in using Javascript language for create the server to connect the victim's machine with attacker's machine. 
